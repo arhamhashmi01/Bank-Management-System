@@ -4,34 +4,28 @@ Welcome to the Bank Management System repository, a comprehensive C++ program de
 ## Key Features:
 
 **Create Account:**
-
-"This feature allows bank personnel to create new accounts for customers quickly and securely.
+This feature allows bank personnel to create new accounts for customers quickly and securely.
 It prompts the user to input necessary details such as customer name, account type, initial deposit amount, etc.
-Once created, the account information is stored securely in the system's database for future reference."
-
+Once created, the account information is stored securely in the system's database for future reference.
 **Withdrawal:**
-
-"Customers can conveniently withdraw funds from their accounts using this feature.
+Customers can conveniently withdraw funds from their accounts using this feature.
 The system ensures that the withdrawal amount does not exceed the available balance in the account.
-It provides clear prompts and feedback to users throughout the withdrawal process for a seamless experience."
+It provides clear prompts and feedback to users throughout the withdrawal process for a seamless experience.
 
 **Transactions:**
-
-"The system supports various types of transactions, including deposits, transfers, and balance inquiries.
+The system supports various types of transactions, including deposits, transfers, and balance inquiries.
 Users can easily perform these transactions using intuitive menu options and input prompts.
-Each transaction is logged and updated in real-time to maintain accurate account balances and transaction histories."
+Each transaction is logged and updated in real-time to maintain accurate account balances and transaction histories.
 
 **View Account List:**
-
-"Bank administrators have access to a comprehensive list of all accounts held within the bank.
+Bank administrators have access to a comprehensive list of all accounts held within the bank.
 This feature provides essential details for each account, such as account number, customer name, balance, etc.
-It allows administrators to quickly search, filter, and view specific accounts based on criteria such as account type or customer name."
+It allows administrators to quickly search, filter, and view specific accounts based on criteria such as account type or customer name.
 
 **Add Amount:**
-
-"Authorized personnel have the ability to add funds to customer accounts as needed.
+Authorized personnel have the ability to add funds to customer accounts as needed.
 This feature is useful for scenarios such as correcting account discrepancies or facilitating special transactions.
-It ensures proper validation and authorization to maintain the integrity of the banking system."
+It ensures proper validation and authorization to maintain the integrity of the banking system.
 ## How to Use:
 
 **Clone the Repository:** Start by cloning this repository to your local machine using Git or GitHub Desktop.
