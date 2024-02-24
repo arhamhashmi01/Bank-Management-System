@@ -7,6 +7,7 @@ Welcome to the Bank Management System repository, a comprehensive C++ program de
 This feature allows bank personnel to create new accounts for customers quickly and securely.
 It prompts the user to input necessary details such as customer name, account type, initial deposit amount, etc.
 Once created, the account information is stored securely in the system's database for future reference.
+
 **Withdrawal:**
 Customers can conveniently withdraw funds from their accounts using this feature.
 The system ensures that the withdrawal amount does not exceed the available balance in the account.
